@@ -10,7 +10,7 @@
   "address": "127.0.0.1:3001",
 
   // coin name
-  "coin": "CloudComputingChain",
+  "coin": "CCC",
 
   // coin symbol
   "symbol": "COC",
@@ -50,8 +50,8 @@
   "wallet": {
     "host": "localhost",
     "port": 9966,
-    "user": "CloudComputingChainrpc",
-    "pass": "CloudComputingChainrpcpassword"
+    "user": "CCCrpc",
+    "pass": "CCCpassword"
   },
 
   // confirmations
